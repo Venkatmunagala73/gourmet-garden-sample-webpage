@@ -1,0 +1,92 @@
+.myDiv {
+    border: 1px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar-styling {
+    border-radius: 20px;
+    margin: 20px;
+}
+	
+	
+}
+
+.button {
+    border-width: 1px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.item-container {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px black;
+    width: 50%;
+}
+
+.main-paragraph {
+    font-size: 14px;
+    color: white;
+    background-color: #996515;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 100px;
+    padding: 10px;
+}
+
+.main-heading {
+    font-size: 20px;
+    color: #808080;
+}
+
+.o-price {
+    color: #D3D3D3;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+.item-button {
+    background-color: green;
+    border-radius: 20px;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 14px;
+    padding: 10px;
+    width: 120px;
+}
+
+.image {
+    width: 150px;
+}
+
+.icon-size {
+    font-size: 50px;
+    color: grey;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.whatsapp-size {
+    font-size: 50px;
+    color: #32CD32;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.Traditional-color {
+    font-size: 14px;
+    color: white;
+    background-color: #FFD700;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 100px;
+    padding: 10px;
+}
